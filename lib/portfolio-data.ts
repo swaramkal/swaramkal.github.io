@@ -2,10 +2,7 @@ import {
   Code2,
   Database,
   Globe,
-  Github,
-  Instagram,
   Laptop,
-  Linkedin,
   Mail,
   Network,
   Phone,
@@ -172,9 +169,9 @@ export const socialLinks: {
   icon: LucideIcon
   external?: boolean
 }[] = [
-  { label: 'LinkedIn', href: profile.linkedin, icon: Linkedin, external: true },
-  { label: 'GitHub', href: profile.github, icon: Github, external: true },
-  { label: 'Instagram', href: profile.instagram, icon: Instagram, external: true },
+  { label: 'LinkedIn', href: profile.linkedin, icon: Globe, external: true },
+  { label: 'GitHub', href: profile.github, icon: Code2, external: true },
+  { label: 'Sparkles', href: profile.instagram, icon: Sparkles, external: true },
   { label: 'Email', href: `mailto:${profile.email}`, icon: Mail },
   { label: 'Phone', href: profile.phoneHref, icon: Phone },
 ]
@@ -190,21 +187,21 @@ export const contactLinks = [
     label: 'LinkedIn',
     value: 'linkedin.com/in/swaramkal-kintali',
     href: profile.linkedin,
-    icon: Linkedin,
+    icon: Globe,
     external: true,
   },
   {
     label: 'GitHub',
     value: 'github.com/swaram888',
     href: profile.github,
-    icon: Github,
+    icon: Code2,
     external: true,
   },
   {
-    label: 'Instagram',
+    label: 'Sparkles',
     value: '@swaram888',
     href: profile.instagram,
-    icon: Instagram,
+    icon: Sparkles,
     external: true,
   },
 ]

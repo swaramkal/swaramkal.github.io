@@ -36,7 +36,7 @@ export function PortfolioNav() {
               {item.label}
             </a>
           ))}
-          <a className="nav-cta-mobile" href="#contact" onClick={closeMenu}>
+          <a className="nav-cta-mobile" href="mailto:swaramkalkintali@gmail.com" onClick={closeMenu}>
             Let&apos;s talk <ArrowUpRight aria-hidden="true" />
           </a>
         </nav>
