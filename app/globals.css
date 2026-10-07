@@ -1672,13 +1672,6 @@ button {
   line-height: 1.5;
 }
 
-.timeline-result {
-  margin: 18px 0 0;
-  color: var(--pf-accent);
-  font-family: var(--pf-mono);
-  font-size: 10px;
-}
-
 /* Mindset, stats and FAQ */
 .mindset-section {
   border-top: 1px solid var(--pf-line);

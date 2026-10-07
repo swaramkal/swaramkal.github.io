@@ -114,19 +114,16 @@ export const education = [
     degree: 'BCA — Undergraduate',
     institution: 'Vaishnavi College',
     period: '2025 – Present',
-    result: 'CGPA: —',
   },
   {
     degree: 'Intermediate / 12th Standard',
     institution: 'Dr. Lankapalli Bullayya College',
     period: '2023 – 2025',
-    result: '531/1000 · 53.10%',
   },
   {
     degree: '10th Standard',
     institution: 'Ravindra Bharathi School',
     period: '2022 – 2023',
-    result: '414/600 · 69.00%',
   },
 ]
 

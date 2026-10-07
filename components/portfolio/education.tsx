@@ -4,21 +4,18 @@ const education = [
     status: 'CURRENT',
     title: 'BCA — UNDERGRADUATE',
     institution: 'Vaishnavi College',
-    result: 'CGPA: —',
   },
   {
     period: '2023 – 2025',
     status: '',
     title: 'INTERMEDIATE / 12TH STANDARD',
     institution: 'Dr. Lankapalli Bullayya College',
-    result: '531/1000 · 53.10%',
   },
   {
     period: '2022 – 2023',
     status: '',
     title: '10TH STANDARD',
     institution: 'Ravindra Bharathi School',
-    result: '414/600 · 69.00%',
   },
 ]
 
@@ -49,7 +46,6 @@ export function EducationSection() {
                 </div>
                 <h3>{item.title}</h3>
                 <p className="timeline-institution">{item.institution}</p>
-                <p className="timeline-result">{item.result}</p>
               </article>
             </li>
           ))}
