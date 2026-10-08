@@ -14,8 +14,8 @@ const contactLinks = [
   },
   {
     label: 'GITHUB',
-    value: 'github.com/swaram888',
-    href: 'https://github.com/swaram888',
+    value: 'github.com/swaramkal',
+    href: 'https://github.com/swaramkal',
     external: true,
   },
   {
