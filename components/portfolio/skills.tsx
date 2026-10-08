@@ -1,5 +1,5 @@
 const skillGroups = [
-  { number: '01', title: 'Programming', items: ['C', 'C++', 'Java', 'Python'] },
+  { number: '01', title: 'Programming', items: ['C', 'C++', 'Java', 'Python','(learning)'] },
   { number: '02', title: 'Web Development', items: ['HTML', 'Basic Web Development'] },
   { number: '03', title: 'Database', items: ['MySQL'] },
   { number: '04', title: 'Networking', items: ['Computer Networks', 'Cisco Packet Tracer', 'OSI Model', 'TCP/IP'] },
