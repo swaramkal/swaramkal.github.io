@@ -189,7 +189,7 @@ export const contactLinks = [
   },
   {
     label: 'GitHub',
-    value: 'github.com/swaram888',
+    value: 'github.com/swaramkal',
     href: profile.github,
     icon: Code2,
     external: true,
