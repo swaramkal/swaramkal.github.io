@@ -119,7 +119,7 @@ export function ProjectsSection() {
               aria-label={`View my GitHub profile for ${project.title}`}
               className={`project-card${project.featured ? ' project-card-featured' : ''}`}
               data-reveal
-              href="https://github.com/swaram888"
+              href="https://github.com/swaramkal"
               key={project.number}
               rel="noopener noreferrer"
               target="_blank"
