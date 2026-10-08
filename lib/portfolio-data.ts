@@ -20,7 +20,7 @@ export const profile = {
   phone: '+91 98850 59321',
   phoneHref: 'tel:+919885059321',
   linkedin: 'https://www.linkedin.com/in/swaramkal-kintali',
-  github: 'https://github.com/swaram888',
+  github: 'https://github.com/swaramkal',
   instagram: 'https://www.instagram.com/swaram888',
 }
 
