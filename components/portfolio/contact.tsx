@@ -28,7 +28,7 @@ const contactLinks = [
 
 const footerLinks = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/swaramkal-kintali', external: true },
-  { label: 'GitHub', href: 'https://github.com/swaram888', external: true },
+  { label: 'GitHub', href: 'https://github.com/swaramkal', external: true },
   { label: 'Instagram', href: 'https://www.instagram.com/swaram888', external: true },
   { label: 'Email', href: 'mailto:swaramkalkintali@gmail.com' },
   { label: 'Phone', href: 'tel:+919885059321' },
