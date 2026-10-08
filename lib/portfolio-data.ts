@@ -74,7 +74,7 @@ export type SkillGroup = {
 }
 
 export const skillGroups: SkillGroup[] = [
-  { category: 'Programming', icon: Code2, skills: ['C', 'C++', 'Java', 'Python'] },
+  { category: 'Programming', icon: Code2, skills: ['C', 'C++', 'Java', 'Python', '(learning)'] },
   {
     category: 'Web development',
     icon: Globe,
