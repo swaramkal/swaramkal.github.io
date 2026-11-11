@@ -1,3 +1,4 @@
+import { ShaderCanvas } from '@/components/ui/shader-canvas'
 import { ArrowDown, ArrowRight, Mail, Phone } from 'lucide-react'
 
 const marqueeItems = [
@@ -26,6 +27,12 @@ function MarqueeItems() {
 export function HeroSection() {
   return (
     <section aria-labelledby="hero-title" className="hero-section" id="top">
+<ShaderCanvas
+  label="Animated portfolio background"
+  resolution={0.7}
+  stillTime={4}
+  className="pointer-events-none absolute inset-0 z-0 h-full w-full"
+/>
       <div className="hero-container">
         <div className="hero-topline">
           <p className="hero-kicker">
